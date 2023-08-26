@@ -34,3 +34,6 @@ override.tf.json  - игнорируются конкретные файлы.
 # Ignore CLI configuration files
 .terraformrc - игнорируются конкретный файл конфигурации terraform.
 terraform.rc - игнорируются конкретный файл конфигурации terraform.
+
+
+test
