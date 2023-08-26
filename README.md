@@ -1,5 +1,6 @@
 # devops-netology 
 First commit
+Second commit
 # Local .terraform directories
 **/.terraform/* -  будут проигнормровано все содержимое папки .terraform вне зависимости от её вложенности в папки в проекте и все вложенные каталоги в ней.
 
